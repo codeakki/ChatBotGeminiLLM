@@ -37,6 +37,7 @@ next-env.d.ts
 test
 
 
-myenv
+chatbot
 
 .env
+chatbot.egg-info
